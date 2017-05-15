@@ -1,2 +1,4 @@
-# Grunt Sass basic configuration
+# Grunt/Sass config.
+
+My Grunt and Sass basic configuration.
 
