@@ -1,7 +1,10 @@
 (function ($) {
 	$(function () {
-		$('button').click(function () {
-			alert("jQuery alert!");
-		});
+		alert("Have fun!");
 	});
 })(jQuery); 
+
+
+$( document ).ready(function() {
+    console.log( "ready!" );
+});
