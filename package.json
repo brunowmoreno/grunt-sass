@@ -1,7 +1,7 @@
 {
-  "name": "grunt-sas",
+  "name": "startgrunt",
   "version": "0.0.1",
-  "description": "Grunt and Sass basic setup",
+  "description": "Learning Grunt and Sass",
   "license": "MIT",
   "devDependencies": {
     "grunt": "~0.4.5",

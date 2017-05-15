@@ -1,3 +1,2 @@
-# Grunt and Sass setup 
+# Grunt Sass basic configuration
 
-My basic setup to use grunt and sass.
